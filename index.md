@@ -1,11 +1,11 @@
 ---
-title: CNL Association
+title: Controlled Natural Language
 layout: default
 ---
 
 _(this website is under construction)_
 
-This is the website for the Controlled Natural Language (CNL) Association.
+This is the website of the Controlled Natural Language (CNL) association.
 
 Controlled Natural Languages (CNL) are languages that are based on natural language but apply restrictions on vocabulary, grammar, and/or semantics. Some CNLs are designed to improve communication among humans, especially for non-native speakers of the respective natural language. In other cases, the restrictions on the language are supposed to make it easier for computers to analyze such texts in order to improve computer-aided, semi-automatic, or automatic translations into other languages. A third group of CNL has the goal to enable reliable automated reasoning and formal knowledge representation from seemingly natural texts.
 
