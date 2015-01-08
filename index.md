@@ -20,6 +20,8 @@ Controlled Natural Languages (CNL) are languages that are based on natural langu
 - [CNL 2010 in Marettimo, Italy](http://staff.um.edu.mt/mros1/cnl2010/index.html)
 - [CNL 2009 in Marettimo, Italy](http://attempto.ifi.uzh.ch/site/cnl2009/)
 
-### Mailing List
+### More
 
-https://groups.google.com/d/forum/sigcnl
+- [Mailing List](https://groups.google.com/d/forum/sigcnl)
+- [GitHub](https://github.com/sigcnl)
+
