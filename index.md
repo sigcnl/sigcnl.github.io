@@ -9,10 +9,11 @@ Controlled Natural Languages (CNL) are languages that are based on natural langu
 
 ### News
 
-- [Special Issue in LRE Journal on CNL](http://attempto.ifi.uzh.ch/site/cnl2014/journal.html)
+- [CNL 2016 will be in Aberdeen, Scottland](cnl2016.html)
 
 ### Events
 
+- [CNL 2016 in Aberdeen, Scottland](cnl2016.html)
 - [CNL 2014 in Galway, Ireland](http://attempto.ifi.uzh.ch/site/cnl2014/)
 - [CNL 2012 in Zurich, Switzerland](http://attempto.ifi.uzh.ch/site/cnl2012/)
 - [CNL 2010 in Marettimo, Italy](http://staff.um.edu.mt/mros1/cnl2010/index.html)
