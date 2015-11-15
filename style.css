@@ -63,10 +63,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-header {
-  text-align: none;
-}
-
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
@@ -292,6 +288,7 @@ Full-Width Styles
   color: #fff;
   font-size: 42px;
   font-weight: 700;
+  text-align: none;
 }
 
 #main_content_wrap {
