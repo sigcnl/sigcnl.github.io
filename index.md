@@ -23,4 +23,5 @@ Controlled Natural Languages (CNL) are languages that are based on natural langu
 
 - [Mailing List](https://groups.google.com/d/forum/sigcnl)
 - [GitHub](https://github.com/sigcnl)
+- [Twitter](https://twitter.com/sig_cnl)
 
