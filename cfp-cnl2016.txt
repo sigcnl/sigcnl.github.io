@@ -1,0 +1,115 @@
+Fifth Workshop on Controlled Natural Language (CNL 2016)
+
+25-27 July 2016 in Aberdeen, Scotland
+
+This workshop on Controlled Natural Language (CNL) has a broad
+scope and embraces all approaches that are based on natural language and apply
+restrictions on vocabulary, grammar, and/or semantics. This includes (but is
+certainly not limited to) approaches that have been called simplified language,
+plain language, formalized language, processable language, fragments of
+language, phraseologies, conceptual authoring, language generation, and guided
+natural language interfaces.
+
+Some CNLs are designed to improve communication among humans, especially for
+non-native speakers of the respective natural language. In other cases, the
+restrictions on the language are supposed to make it easier for computers to
+analyze such texts in order to improve computer-aided, semi-automatic, or
+automatic translations into other languages. A third group of CNL has the goal
+to enable reliable automated reasoning and formal knowledge representation from
+seemingly natural texts. All these types of CNL are covered by this workshop.
+
+Important Dates
+
+Submission deadline: 1 March 2016  
+Notification of acceptance: 1 April 2016  
+Deadline for revised papers: 13 May 2016  
+Registration deadline: 11 July 2016  
+Posters/demos deadline: 11 July 2016  
+Workshop: 25-27 July 2016
+
+Sponsors
+
+Contact Adam Wyner, azwyner@abdn.ac.uk, if you want to become a sponsor.
+
+Topics
+
+Possible topics for CNL 2016 include:
+
+- CNL for knowledge representation
+- CNL for query interfaces
+- CNL for specifications
+- CNL for business rules
+- CNL for dialogue systems
+- CNL for machine translation
+- CNL for improved understandability of texts
+- CNL for natural language generation
+- design of CNLs
+- CNL applications
+- CNL evaluation
+- usability and acceptance of CNL
+- CNL grammars and lexica
+- multilingual CNLs
+- reasoning in CNL
+- spoken CNL
+- CNL in the context of the Semantic Web and Linked Open Data
+- CNL in the government
+- CNL in industry
+- CNL use cases
+- theoretical properties of CNL
+
+Submissions and Proceedings
+
+We invite researchers to submit papers with novel contributions in the area of CNL.
+
+Submit your paper via Easychair:
+
+https://easychair.org/conferences/?conf=cnl2016
+
+The proceedings of the workshop will appear in Springer's LNAI series.
+
+Website:
+
+http://www.sigcnl.org/cnl2016.html
+
+Organization Committee
+
+- Adam Wyner (University of Aberdeen, Scotland; azwyner@abdn.ac.uk)
+- Brian Davis (INSIGHT@NUI Galway, Ireland; brian.davis@insight-centre.org)
+- Gordon Pace (University of Malta, Malta; gordon.pace@um.edu.mt)
+
+Program Committee
+
+Krasimir Angelov (Chalmers University, Sweden)
+Paul Buitelaar (INSIGHT@NUI Galway, formerly DERI, Ireland)
+Rogan Creswick (Galois, USA)
+Brian Davis (INSIGHT@NUI Galway, formerly DERI, Ireland)
+Ronald Denaux (iSOCO, Spain)
+Ramona Enache (Chalmers University, Sweden)
+Esra Erdem (Sabanci University, Turkey)
+Sebastien Ferre (University Rennes 1, France)
+Norbert E. Fuchs (University of Zurich, Switzerland)
+Normunds Gruzitis (University of Latvia)
+Kaarel Kaljurand (Nuance Communications, Austria)
+Peter Koepke (University of Bonn, Germany)
+Tobias Kuhn (ETH Zurich, Switzerland)
+Adegboyega Ojo (INSIGHT@NUI Galway, formerly DERI, Ireland)
+Gordon Pace (University of Malta)
+Laurette Pretorius (University of South Africa)
+Aarne Ranta (University of Gothenburg, Sweden)
+Mike Rosner (University of Malta)
+Uta Schwertel (imc, Germany)
+Rolf Schwitter (Macquarie University, Australia)
+Geoff Sutcliffe (University of Miami, USA)
+Irina Temnikova (Qatar Computing Research Institute, Qatar)
+Camilo Thorne (Free University of Bozen-Bolzano, Italy)
+Jeroen Van Grondelle (HU University of Applied Sciences Utrecht, Netherlands)
+Adam Wyner (University of Aberdeen, UK)
+
+Previous Events
+
+There were four previous events in the same series:
+
+- CNL 2009 in Marettimo, Italy. http://attempto.ifi.uzh.ch/site/cnl2009/
+- CNL 2010 in Marettimo, Italy. http://staff.um.edu.mt/mros1/cnl2010/index.html
+- CNL 2012 in Zurich, Switzerland. http://attempto.ifi.uzh.ch/site/cnl2012/
+- CNL 2014 in Galway, Ireland. http://attempto.ifi.uzh.ch/site/cnl2014/
