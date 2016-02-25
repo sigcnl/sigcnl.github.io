@@ -146,7 +146,7 @@ strong {
 }
 
 img {
-  position: relative;
+  position: centre;
   margin-left: auto;
   margin-right: auto;
   max-width: 739px;
