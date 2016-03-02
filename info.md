@@ -2,7 +2,7 @@
 layout: default
 ---
 <p align="middle">
-<img src="logo3.jpg" width="1100" height="500"/>
+<img src="logo3.jpg" width="650" height="350"/>
 </p>
 <p align="middle" style="color:red; font-size:130%">25–27 July 2016 — Aberdeen, Scotland</p>
 <p class="tabs" align="middle">
