@@ -25,6 +25,13 @@ Locally the University is served by First Bus (routes 1,2, 19, 20, x40 amongst o
 ### Accommodation
 There is no specific workshop hotel, allowing participants to select their own. It is recommended to book accommodation as soon as possible as there is high demand for hotel rooms in Aberdeen.
 
+Accommodation at the University of Aberdeen
+ 
+With beds available mid-June to the end of August, the University of Aberdeen is one of the largest accommodation providers in the north-east. Our accommodation is a 30 minute walk from the city centre or a short bus ride. We have a range of standard rooms so whatever the size of your group or budget, we'll have something to suit your needs and make your stay a welcome break! 
+
+http://www.abdn.ac.uk/summer_accommodation/
+
+
 Options easily accessible from the University include:
 
 
@@ -38,4 +45,9 @@ Options easily accessible from the University include:
 - [Jurys Inn](https://www.jurysinns.com/) (from £110 a night)
 - [Brentwood Hotel](http://www.brentwood-hotel.co.uk/)  (from £115 a night)
 
+### Various
+
+- You can get on the wireless either with Eduroam or with Guestweb or Aberdeen-City-Connect. Guestweb requires a username and password, which can be provided to you.
+- [St Machar Cathedral](https://en.wikipedia.org/wiki/St_Machar%27s_Cathedral) (since circ 580)
+- [King’s College Chapel](https://en.wikipedia.org/wiki/King%27s_College,_Aberdeen#King.27s_College_Chapel) (since 1495)
 
