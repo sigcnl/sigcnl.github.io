@@ -28,14 +28,14 @@ There is no specific workshop hotel, allowing participants to select their own. 
 Options easily accessible from the University include:
 
 
-- [Premier Inn Aberdeen City Centre](http://www.premierinn.com/gb/en/home.html) (from £45 a night)</li>
-- [Travelodge Aberdeen Central Justice Mill Lane](http://www.travelodge.co.uk/) (from £52 a night)</li>
-- [The Douglas Hotel](http://www.aberdeendouglas.com/) (from £60 a night)</li> 
-- [Bauhaus Hotel](http://www.thebauhaus.co.uk/) (from £90 a night)</li> 
-- [Holiday Inn Express Aberdeen City Centre](http://www.ihg.com/holidayinnexpress/hotels/gb/en/reservation) (from £100 a night)</li>
-- [Copthorne Hotel](https://www.millenniumhotels.com/en/hotels/) (from £100 a night)</li> 
-- [Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/index.html) (from £105 a night)</li> 
-- [Jurys Inn](https://www.jurysinns.com/) (from £110 a night)</li> 
-- [Brentwood Hotel](http://www.brentwood-hotel.co.uk/)  (from £115 a night)</li> 
+- [Premier Inn Aberdeen City Centre](http://www.premierinn.com/gb/en/home.html) (from £45 a night)
+- [Travelodge Aberdeen Central Justice Mill Lane](http://www.travelodge.co.uk/) (from £52 a night)
+- [The Douglas Hotel](http://www.aberdeendouglas.com/) (from £60 a night)
+- [Bauhaus Hotel](http://www.thebauhaus.co.uk/) (from £90 a night)
+- [Holiday Inn Express Aberdeen City Centre](http://www.ihg.com/holidayinnexpress/hotels/gb/en/reservation) (from £100 a night)
+- [Copthorne Hotel](https://www.millenniumhotels.com/en/hotels/) (from £100 a night)
+- [Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/index.html) (from £105 a night)
+- [Jurys Inn](https://www.jurysinns.com/) (from £110 a night)
+- [Brentwood Hotel](http://www.brentwood-hotel.co.uk/)  (from £115 a night)
 
 
