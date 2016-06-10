@@ -29,7 +29,7 @@ Accommodation at the University of Aberdeen
  
 With beds available mid-June to the end of August, the University of Aberdeen is one of the largest accommodation providers in the north-east. Our accommodation is a 30 minute walk from the city centre or a short bus ride. We have a range of standard rooms so whatever the size of your group or budget, we'll have something to suit your needs and make your stay a welcome break! 
 
-(http://www.abdn.ac.uk/summer_accommodation/)
+[http://www.abdn.ac.uk/summer_accommodation/](http://www.abdn.ac.uk/summer_accommodation/)
 
 
 Options easily accessible from the University include:
