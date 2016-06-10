@@ -17,6 +17,6 @@ Aberdeen’s international airport is served by a number of major carriers, prov
 
 Rail services connect Aberdeen both north and south. There are regular direct trains to London, and services from Edinburgh and Glasgow link with other mainline routes. Aberdeen is served by the [Caledonian Sleeper](https://www.sleeper.scot/) as well as daytime trains. For timetable information visit [National Rail Enquiries](http://www.nationalrail.co.uk/).
 
-Aberdeen is served by coaches from Edinburgh, Glasgow and other destinations, coach travel from the rest of the UK involves connecting through Edinburgh or Glasgow. Details are available from Citylink (covers all operators in Scotland) and individual operators websites.
+Aberdeen is served by coaches from Edinburgh, Glasgow and other destinations, coach travel from the rest of the UK involves connecting through Edinburgh or Glasgow. Details are available from [Citylink](http://www.citylink.co.uk/) (covers all operators in Scotland) and individual operators websites.
 
 Locally the University is served by First Bus (routes 1,2, 19, 20, x40 amongst others) and Stagecoach busses from Union Street and Union Square bus station in the City Centre.
