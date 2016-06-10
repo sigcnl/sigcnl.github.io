@@ -36,7 +36,5 @@ Options easily accessible from the University include:
  <li>[Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/index.html) (from £105 a night)</li> 
 <li>[Jurys Inn](https://www.jurysinns.com/) (from £110 a night)</li> 
 <li>[Brentwood Hotel](http://www.brentwood-hotel.co.uk/)  (from £115 a night)</li> 
-
-
 <li>[Copthorne Hotel](https://www.millenniumhotels.com/en/hotels/) (from £100 a night)</li> 
 
