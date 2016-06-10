@@ -32,9 +32,10 @@ Options easily accessible from the University include:
 <li>[Travelodge Aberdeen Central Justice Mill Lane](http://www.travelodge.co.uk/) (from £52 a night)</li>
 <li>[The Douglas Hotel](http://www.aberdeendouglas.com/) (from £60 a night)</li> 
 <li>[Bauhaus Hotel](http://www.thebauhaus.co.uk/) (from £90 a night)</li> 
- <li>[Holiday Inn Express Aberdeen City Centre](http://www.ihg.com/holidayinnexpress/hotels/gb/en/reservation) (from £100 a night)</li>
- <li>[Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/index.html) (from £105 a night)</li> 
+<li>[Holiday Inn Express Aberdeen City Centre](http://www.ihg.com/holidayinnexpress/hotels/gb/en/reservation) (from £100 a night)</li>
+<li>[Copthorne Hotel](https://www.millenniumhotels.com/en/hotels/) (from £100 a night)</li> 
+<li>[Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/index.html) (from £105 a night)</li> 
 <li>[Jurys Inn](https://www.jurysinns.com/) (from £110 a night)</li> 
 <li>[Brentwood Hotel](http://www.brentwood-hotel.co.uk/)  (from £115 a night)</li> 
-<li>[Copthorne Hotel](https://www.millenniumhotels.com/en/hotels/) (from £100 a night)</li> 
+
 
