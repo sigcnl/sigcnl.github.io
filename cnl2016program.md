@@ -23,8 +23,8 @@ layout: default
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td class="time">11:30-12:00 </td><td>Norbert E. Fuchs<br/><em>Reasoning in Attempto Controlled English: Non-Monotonicity</em></td></tr>
-<tr><td class="time">11:00-11:30 </td><td>COFFEE BREAK</td></tr>
+<tr><td class="time">12:00-12:30 </td><td>Adam Wyner, Adeline Nazarenko, and Francois Levy<br/><em>Towards a High-level Controlled Language for Legal Sources on the SemanticWeb</em></td></tr>
+<tr><td class="time">12:30-14:00 </td><td>LUNCH BREAK</td></tr>
 </table>
-
 
 </body>
