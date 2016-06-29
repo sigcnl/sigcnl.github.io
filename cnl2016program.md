@@ -46,6 +46,39 @@ layout: default
 <tr><td class="time">16:00-16:30 </td><td>Ezgi Demirel, Kamil Doruk Gur, and Esra Erdem<br/><em>Human-Robot Interaction in a Shopping Mall: A CNL Approach</em></td></tr>
 </table>
 
+<h3>DAY 2: TUESDAY, 26 JULY 2016</h3>
+
+<h5>Session 1</h5>
+
+<table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<tr><td class="time">09.30-10.30  </td><td>Invited talk: Philipp Cimiano</td></tr>
+<tr><td class="time">10:30-11:00 </td><td>COFFEE BREAK</td></tr>
+</table>
+
+<h5>Session 2</h5>
+
+<table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<tr><td class="time">11:00-11:30</td><td>Nataly Jahchan, Anne Condamines, and Emmanuelle Cannesson<br/><em>To What Extent Does Text Simplification Entail a More Optimized Comprehension in Human-Oriented CNLs?</em></td></tr>
+<tr><td class="time">11:30-12:00 </td><td>Tobias Kuhn<br/><em>The Controlled Natural Language of Randall Munroe’s Thing Explainer
+</em></td></tr>
+<tr><td class="time">12:00-13:30 </td><td>LUNCH BREAK</td></tr>
+</table>
+
+
+<h5>Session 3</h5>
+
+<table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<tr><td class="time">13.30-14.00 </td><td>Aarne Ranta<br/><em>Multilingual Database Access in the Query Converter </em></td></tr>
+<tr><td class="time">14:00-14:30</td><td>Normunds Gruzitis and Guntis Barzdins<br/><em>The Role of CNL and AMR in Scalable Abstractive Summarization for Multilingual Media Monitoring</em></td></tr>
+<tr><td class="time">15:00-15:30 </td><td>COFFEE BREAK</td></tr>
+</table>
+
+<h5>Session 4</h5>
+
+<table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<tr><td class="time">15.30-16.00 </td><td>Joan Byamugisha, C. Maria Keet, and Brian DeRenzi<br/><em>Bootstrapping a Runyankore CNL from an isiZulu CNL </em></td></tr>
+<tr><td class="time">16:00-16:30 </td><td>Susana Palmaz, Montse Cuadros, and Thierry Etchegoyhen<br/><em>Statistically-Guided Controlled Language Authoring</em></td></tr>
+</table>
 
 
 </body>
