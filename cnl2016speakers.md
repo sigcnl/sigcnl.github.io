@@ -12,7 +12,7 @@ layout: default
 
 ### Invited Speakers
 
-- Silvie Spreeuwenberg, LibRT
+<p style="color:black; font-size:100%">Silvie Spreeuwenberg</p> 
 My Career
 In 2006, I founded the Business Rules Platform Nederland (Dutch Business Rules Platform) union in the Netherlands. I have organized numerous conferences, including the annual EBRC: European Business Rules Conference for the past five years, and the successful 3 Amigos event in the Netherlands. Furthermore, I have also translated the RuleSpeak and business rules manifesto guidelines into Dutch.
 
