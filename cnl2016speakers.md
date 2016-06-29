@@ -12,7 +12,7 @@ layout: default
 
 ### Invited Speakers
 
-<strong><p style="color:black; font-size:100%">Silvie Spreeuwenberg</p></strong>
+<strong>Silvie Spreeuwenberg</strong>
 In 2006, Silvie founded the Business Rules Platform Nederland (Dutch Business Rules Platform) union in the Netherlands. She has organized numerous conferences, including the annual EBRC: European Business Rules Conference for the past five years, and the successful 3 Amigos event in the Netherlands. Furthermore, she has also translated the RuleSpeak and business rules manifesto guidelines into Dutch.
 
 Another highlight in her career is that, in 2002, she was invited by the Object Management Group to make a contribution to standardization in the field. The result is the SBVR standard, which was officially accepted in 2005. Standardization is, in her opinion, essential when it comes to bringing a field to a higher level of maturity, and it shows that we take the issue very seriously.
