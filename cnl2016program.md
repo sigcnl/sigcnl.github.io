@@ -12,8 +12,8 @@ layout: default
 <p align="middle" style="color:black; font-size:130%">Day 1: 25 July</p>
 
 <p><strong>Session 1</p></strong>:
-10:00-11:00 
-Invited talk: Silvie Spreeuwenberg
+<p>10:00-11:00 </p>
+<p>Invited talk: Silvie Spreeuwenberg</p>
 
-11:00-11:30 
-COFFEE BREAK
+<p>11:00-11:30</p>
+<p>COFFEE BREAK/p>
