@@ -13,15 +13,15 @@ layout: default
 ### Invited Speakers
 
 <strong><p style="color:black; font-size:100%">Silvie Spreeuwenberg</p></strong>
-My Career
-In 2006, I founded the Business Rules Platform Nederland (Dutch Business Rules Platform) union in the Netherlands. I have organized numerous conferences, including the annual EBRC: European Business Rules Conference for the past five years, and the successful 3 Amigos event in the Netherlands. Furthermore, I have also translated the RuleSpeak and business rules manifesto guidelines into Dutch.
+In 2006, Silvie founded the Business Rules Platform Nederland (Dutch Business Rules Platform) union in the Netherlands. She has organized numerous conferences, including the annual EBRC: European Business Rules Conference for the past five years, and the successful 3 Amigos event in the Netherlands. Furthermore, she has also translated the RuleSpeak and business rules manifesto guidelines into Dutch.
 
-Another highlight in my career is that, in 2002, I was invited by the Object Management Group to make a contribution to standardization in the field. The result is the SBVR standard, which was officially accepted in 2005. Standardization is, in my opinion, essential when it comes to bringing a field to a higher level of maturity, and it shows that we take the issue very seriously.
+Another highlight in her career is that, in 2002, sh was invited by the Object Management Group to make a contribution to standardization in the field. The result is the SBVR standard, which was officially accepted in 2005. Standardization is, in her opinion, essential when it comes to bringing a field to a higher level of maturity, and it shows that we take the issue very seriously.
 
-More information about my projects can be found in the projects overview.
 
-My Education
-Upon leaving the Montessori Lyceum in Amsterdam, I went on to study Cognitive Artificial Intelligence in Utrecht. In 1996, I completed my Masters with a thesis on genetic algorithms and decision-trees supporting the selection of an automated breeding process. The challenge was to instill confidence in a statistical model of the breeding selection process, and to give an insight regarding the (generated) knowledge. This challenge is, to this day, a common thread running through my career.
+Upon leaving the Montessori Lyceum in Amsterdam, she went on to study Cognitive Artificial Intelligence in Utrecht. In 1996, she completed her Masters with a thesis on genetic algorithms and decision-trees supporting the selection of an automated breeding process. The challenge was to instill confidence in a statistical model of the breeding selection process, and to give an insight regarding the (generated) knowledge. This challenge is, to this day, a common thread running through her career.
+
+More information can be found on her webpage
+http://www.silviespreeuwenberg.com/language/english/
 
  
 - Philipp Cimiano, University of Bielefeld
