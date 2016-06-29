@@ -19,15 +19,12 @@ layout: default
 <tr><td class="time">11:00-11:30 </td><td>COFFEE BREAK</td></tr>
 </table>
 
-<table>
-<tr><td class="time">09:20-10:00</td><td>Sandra Williams, Richard Power and Allan Third<br/><em>How Easy is it to Learn a Controlled Natural Language for Building a Knowledge Base?</em> [<a href="https://www.youtube.com/watch?v=JNJCtOAaHIc&amp;list=PL9MDHk_EFeGtHqFl9DKh5zB5abiTDZhps">video</a>]</td></tr>
-<tr><td class="time">10:00-10:40</td><td>Karolina Suchowolec<br/><em>Are Style Guides Controlled Languages? The Case of Koenig &amp; Bauer AG</em> <strong>(best paper)</strong> [<a href="slides/suchowolec.pdf">slides</a>] [<a href="https://www.youtube.com/watch?v=wTRGIy2oFgs&amp;list=PL9MDHk_EFeGtHqFl9DKh5zB5abiTDZhps">video</a>]</td></tr>
+<h5>Session 2</h5>
+
+<table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<tr><td class="time">11:30-12:00 </td><td>Norbert E. Fuchs<br/><em>Reasoning in Attempto Controlled English: Non-Monotonicity</em></td></tr>
+<tr><td class="time">11:00-11:30 </td><td>COFFEE BREAK</td></tr>
 </table>
 
 
-<h5>Break</h5>
-
-<table>
-<tr><td class="time">10:40-11:00</td><td>Coffee Break</td></tr>
-</table>
 </body>
