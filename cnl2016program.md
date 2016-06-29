@@ -14,7 +14,7 @@ layout: default
 
 <h5>Session 1</h5>
 
-<table><table border="0">
+<table border="0">
 <tr><td class="time">10:00-11:00 </td><td>Invited talk: Silvie Spreeuwenberg</td></tr>
 <tr><td class="time">11:00-11:30 </td><td>COFFEE BREAK</td></tr>
 </table>
