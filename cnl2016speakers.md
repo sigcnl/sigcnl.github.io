@@ -12,7 +12,7 @@ layout: default
 
 ### Invited Speakers
 
-- <p><strong>Silvie Spreeuwenberg</strong></p>
+- <p><strong>Silvie Spreeuwenberg, Librt</strong></p>
 
 In 2006, Silvie founded the Business Rules Platform Nederland (Dutch Business Rules Platform) union in the Netherlands. She has organized numerous conferences, including the annual EBRC: European Business Rules Conference for the past five years, and the successful 3 Amigos event in the Netherlands. Furthermore, she has also translated the RuleSpeak and business rules manifesto guidelines into Dutch.
 
@@ -24,5 +24,8 @@ Upon leaving the Montessori Lyceum in Amsterdam, she went on to study Cognitive 
 More information can be found on her [webpage](http://www.silviespreeuwenberg.com/language/english/) 
 
  
-- Philipp Cimiano, University of Bielefeld
+- <p><strong>Philipp Cimiano, University of Bielefeld</strong></p>
 
+Philipp is the head of the Semantic Computing Group at Bielefeld University. He is also affiliated with the Cognitive Interaction Technology Excellence Cluster. Before joining the University of Bielefeld, he was an assistant professor at Delft University of Technology (2008-2009) and a postdoctoral researcher at the Institute AIFB of Universität Kalsruhe (TH). Philipp is mainly interested in topics at the intersection between knowledge representation and text processing including: text mining, computational semantics, information retrieval, question answering, ontology learning, ontology localization, etc. He is editorial board member of the Semantic Web Journal.
+
+More information can be found on her [webpage](http://www.sc.cit-ec.uni-bielefeld.de/index.php?id=43) 
