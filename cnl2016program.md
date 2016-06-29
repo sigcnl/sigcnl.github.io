@@ -27,4 +27,17 @@ layout: default
 <tr><td class="time">12:30-14:00 </td><td>LUNCH BREAK</td></tr>
 </table>
 
+
+<h5>Session 3</h5>
+
+<table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<tr><td class="time">14:00-14:30 </td><td>Aaron Calafato, Christian Colombo, and Gordon J. Pace
+<br/><em>A Controlled Natural Language For Tax Fraud Detection </em></td></tr>
+<tr><td class="time">14:30-15:00 </td><td>Alessandro Seganti, Pawel Kaplanski, Jesus David Nunez Campo, Krzysztof Cieslinski, Jerzy Koziolkiewicz, and Pawel Zarzycki<br/><em>Asking Data in a Controlled Way with Ask Data Anything NQL
+</em></td></tr>
+<tr><td class="time">15:00-15:30 </td><td>COFFEE BREAK</td></tr>
+</table>
+
+
+
 </body>
