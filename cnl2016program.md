@@ -11,12 +11,12 @@ layout: default
 <body>
 
 <h3>DAY 1: MONDAY, 25 JULY 2016</h3>
-<h5>Research Talks 1</h5>
 
 <h5>Session 1</h5>
 
 <table>
 <tr><td class="time">10:00-11:00 </td><td>Invited talk: Silvie Spreeuwenberg</td></tr>
+<tr><td class="time">11:00-11:30 </td><td>COFFEE BREAK</td></tr>
 </table>
 
 <table>
