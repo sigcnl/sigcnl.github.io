@@ -8,12 +8,22 @@ layout: default
 <p class="tabs" align="middle">
 <a href="cnl2016.html">Main</a> | <a href="cnl2016program.html">Program</a> | <a href="cnl2016speakers.html">Invited Speakers</a> | <a href="cnl2016pd.html">Posters/Demos</a> | <a href="cnl2016info.html">Info for Participants</a> | <a href="cnl2016SM.html">Social Media</a> 
 </p>
+<body>
 
-<p align="middle" style="color:black; font-size:130%">Day 1: 25 July</p>
+<h3>WEDNESDAY, 20 AUGUST 2014</h3>
+<h5>Research Talks 1</h5>
 
-<p><strong>Session 1</p></strong>
-<p>10:00-11:00 </p>
-<p>Invited talk: Silvie Spreeuwenberg</p>
+<p><em>(Session Chair: Aarne Ranta)</em></p>
 
-<p>11:00-11:30</p>
-<p>COFFEE BREAK/p>
+<table>
+<tr><td class="time">09:20-10:00</td><td>Sandra Williams, Richard Power and Allan Third<br/><em>How Easy is it to Learn a Controlled Natural Language for Building a Knowledge Base?</em> [<a href="https://www.youtube.com/watch?v=JNJCtOAaHIc&amp;list=PL9MDHk_EFeGtHqFl9DKh5zB5abiTDZhps">video</a>]</td></tr>
+<tr><td class="time">10:00-10:40</td><td>Karolina Suchowolec<br/><em>Are Style Guides Controlled Languages? The Case of Koenig &amp; Bauer AG</em> <strong>(best paper)</strong> [<a href="slides/suchowolec.pdf">slides</a>] [<a href="https://www.youtube.com/watch?v=wTRGIy2oFgs&amp;list=PL9MDHk_EFeGtHqFl9DKh5zB5abiTDZhps">video</a>]</td></tr>
+</table>
+
+
+<h5>Break</h5>
+
+<table>
+<tr><td class="time">10:40-11:00</td><td>Coffee Break</td></tr>
+</table>
+</body>
