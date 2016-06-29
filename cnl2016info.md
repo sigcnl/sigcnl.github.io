@@ -9,6 +9,13 @@ layout: default
 <a href="cnl2016.html">Main</a> | <a href="cnl2016program.html">Program</a> | <a href="cnl2016speakers.html">Invited Speakers</a> | <a href="cnl2016pd.html">Posters/Demos</a> | <a href="cnl2016info.html">Info for Participants</a> | <a href="cnl2016SM.html">Social Media</a> 
 </p>
 
+
+### Workshop Location
+The Sir Duncan Rice Library
+Seventh Floor
+[map](http://www.abdn.ac.uk/about/campus/maps/view/112/) 
+
+
 ### Travel
 
 To Aberdeen by air, rail and road
