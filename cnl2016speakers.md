@@ -20,8 +20,7 @@ Another highlight in her career is that, in 2002, she was invited by the Object 
 
 Upon leaving the Montessori Lyceum in Amsterdam, she went on to study Cognitive Artificial Intelligence in Utrecht. In 1996, she completed her Masters with a thesis on genetic algorithms and decision-trees supporting the selection of an automated breeding process. The challenge was to instill confidence in a statistical model of the breeding selection process, and to give an insight regarding the (generated) knowledge. This challenge is, to this day, a common thread running through her career.
 
-More information can be found on her webpage
-http://www.silviespreeuwenberg.com/language/english/
+More information can be found on her [webpage](http://www.silviespreeuwenberg.com/language/english/) 
 
  
 - Philipp Cimiano, University of Bielefeld
