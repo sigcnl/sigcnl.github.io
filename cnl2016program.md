@@ -9,4 +9,11 @@ layout: default
 <a href="cnl2016.html">Main</a> | <a href="cnl2016program.html">Program</a> | <a href="cnl2016speakers.html">Invited Speakers</a> | <a href="cnl2016pd.html">Posters/Demos</a> | <a href="cnl2016info.html">Info for Participants</a> | <a href="cnl2016SM.html">Social Media</a> 
 </p>
 
-TBA
+<p align="middle" style="color:black; font-size:130%">Day 1: 25 July</p>
+
+<p><strong>Session 1</p></strong>:
+10:00-11:00 
+Invited talk: Silvie Spreeuwenberg
+
+11:00-11:30 
+COFFEE BREAK
