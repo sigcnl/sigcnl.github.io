@@ -10,10 +10,14 @@ layout: default
 </p>
 <body>
 
-<h3>WEDNESDAY, 20 AUGUST 2014</h3>
+<h3>DAY 1: MONDAY, 25 JULY 2016</h3>
 <h5>Research Talks 1</h5>
 
-<p><em>(Session Chair: Aarne Ranta)</em></p>
+<h5>Session 1</h5>
+
+<table>
+<tr><td class="time">10:00-11:00 </td><td>Invited talk: Silvie Spreeuwenberg</td></tr>
+</table>
 
 <table>
 <tr><td class="time">09:20-10:00</td><td>Sandra Williams, Richard Power and Allan Third<br/><em>How Easy is it to Learn a Controlled Natural Language for Building a Knowledge Base?</em> [<a href="https://www.youtube.com/watch?v=JNJCtOAaHIc&amp;list=PL9MDHk_EFeGtHqFl9DKh5zB5abiTDZhps">video</a>]</td></tr>
