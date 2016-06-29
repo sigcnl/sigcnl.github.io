@@ -11,8 +11,8 @@ layout: default
 
 
 ### Workshop Location
-The Sir Duncan Rice Library
-Seventh Floor
+<p>University of Aberdeen, The Sir Duncan Rice Library</p>
+<p>Seventh Floor</p>
 [map](http://www.abdn.ac.uk/about/campus/maps/view/112/) 
 
 
