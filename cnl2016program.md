@@ -70,6 +70,7 @@ layout: default
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td class="time">13.30-14.00 </td><td>Aarne Ranta<br/><em>Multilingual Database Access in the Query Converter </em></td></tr>
 <tr><td class="time">14:00-14:30</td><td>Normunds Gruzitis and Guntis Barzdins<br/><em>The Role of CNL and AMR in Scalable Abstractive Summarization for Multilingual Media Monitoring</em></td></tr>
+<tr><td class="time">14:30-15:00</td><td>Eugenio Concepcion, Pablo Gervas, Gonzalo Mendez, and Carlos Leon<br/><em>Using CNL for Knowledge Elicitation and Exchange across Story Generation Systems</em></td></tr>
 <tr><td class="time">15:00-15:30 </td><td>COFFEE BREAK</td></tr>
 </table>
 
