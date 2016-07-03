@@ -51,6 +51,10 @@ Options easily accessible from the University include:
 - [Jurys Inn](https://www.jurysinns.com/) (from £110 a night)
 - [Brentwood Hotel](http://www.brentwood-hotel.co.uk/)  (from £115 a night)
 
+### Workshop Dinner and Whiskey Bar
+
+The workshop dinner will take place the evening of Monday, July 25. After dinner, we will retire to a whiskey bar (and then possibly to a pub with a good range of ales and lagers). Further information will be posted here as and when it is available. Note that the workshop dinner (bar and pub) are not included in the registration fee so plan to order and pay from a set menu or a la carte.
+
 ### Various
 
 - You can get on the wireless either with Eduroam or with Guestweb or Aberdeen-City-Connect. Guestweb requires a username and password, which can be provided to you.
