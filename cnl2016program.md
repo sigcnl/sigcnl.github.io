@@ -80,7 +80,7 @@ layout: default
 
 <h5>Session 4</h5>
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">15:30-16.00  </td><td>Invited talk: Ehud </td></tr>
+<tr><td class="time">15:30-16.00  </td><td>Invited talk: Ehud Reiter  </td></tr>
 <tr><td class="time">16.00-16.30 </td><td>Joan Byamugisha, C. Maria Keet, and Brian DeRenzi<br/><em>Bootstrapping a Runyankore CNL from an isiZulu CNL </em></td></tr>
 
 </table>
