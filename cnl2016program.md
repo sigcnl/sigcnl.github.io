@@ -45,7 +45,7 @@ layout: default
  </em></td></tr>
 <tr><td class="time">16:00-16:30 </td><td>Ezgi Demirel, Kamil Doruk Gur, and Esra Erdem<br/><em>Human-Robot Interaction in a Shopping Mall: A CNL Approach</em></td></tr>
 <tr><td class="time">16:30:17:00 </td><td>Susana Palmaz, Montse Cuadros, and Thierry Etchegoyhen<br/><em>Statistically-Guided Controlled Language Authoring</em></td></tr>
-<tr><td class="time">17:00-17.30  </td><td>Invited talk: Gonzolo /td></tr>
+<tr><td class="time">17:00-17.30  </td><td>Invited talk: Gonzolo </td></tr>
 
 </table>
 
