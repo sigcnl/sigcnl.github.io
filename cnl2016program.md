@@ -41,11 +41,11 @@ layout: default
 <h5>Session 4</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">16:00-16:30 </td><td>Christopher Nalbandian and Rolf Schwitter<br/><em>A Speech Interface to the PENGASP System
+<tr><td class="time">15.30-16.00 </td><td>Christopher Nalbandian and Rolf Schwitter<br/><em>A Speech Interface to the PENGASP System
  </em></td></tr>
-<tr><td class="time">16:30:17:00 </td><td>Ezgi Demirel, Kamil Doruk Gur, and Esra Erdem<br/><em>Human-Robot Interaction in a Shopping Mall: A CNL Approach</em></td></tr>
+<tr><td class="time">16:00-16:30 </td><td>Ezgi Demirel, Kamil Doruk Gur, and Esra Erdem<br/><em>Human-Robot Interaction in a Shopping Mall: A CNL Approach</em></td></tr>
+<tr><td class="time">16:30-17:00</td><td>Eugenio Concepcion, Pablo Gervas, Gonzalo Mendez, and Carlos Leon<br/><em>Using CNL for Knowledge Elicitation and Exchange across Story Generation Systems</em></td></tr>
 <tr><td class="time">17:00:17:30 </td><td>Susana Palmaz, Montse Cuadros, and Thierry Etchegoyhen<br/><em>Statistically-Guided Controlled Language Authoring</em></td></tr>
-<tr><td class="time">14:30-15:00</td><td>Eugenio Concepcion, Pablo Gervas, Gonzalo Mendez, and Carlos Leon<br/><em>Using CNL for Knowledge Elicitation and Exchange across Story Generation Systems</em></td></tr>
 </table>
 
 <h3>DAY 2: TUESDAY, 26 JULY 2016</h3>
@@ -72,7 +72,6 @@ layout: default
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td class="time">13.30-14.00 </td><td>Aarne Ranta<br/><em>Multilingual Database Access in the Query Converter </em></td></tr>
 <tr><td class="time">14:00-14:30</td><td>Normunds Gruzitis and Guntis Barzdins<br/><em>The Role of CNL and AMR in Scalable Abstractive Summarization for Multilingual Media Monitoring</em></td></tr>
-
 <tr><td class="time">15:00-15:30 </td><td>COFFEE BREAK</td></tr>
 </table>
 
