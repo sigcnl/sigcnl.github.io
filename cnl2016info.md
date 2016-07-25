@@ -57,8 +57,7 @@ The workshop dinner will take place the evening of Monday, July 25 at Cafe 52. A
 
 - [Cafe 52](http://cafe52.co.uk/)
 - [The Grill](http://thegrillaberdeen.co.uk/)
-
-[Map](https://goo.gl/maps/c2cA8QYvc4u)
+- [Map from Rice Library to Cafe 52 and The Grill - 25 minutes on foot](https://www.google.co.uk/maps/dir/''/Cafe+52,+The+Green,+Aberdeen/The+Grill,+Union+Street,+Aberdeen/@57.1625252,-2.1092249,15.63z/data=!4m30!4m29!1m15!1m1!1s0x0:0xd49be81690b0ebb2!2m2!1d-2.1055927!2d57.1648355!3m4!1m2!1d-2.0992641!2d57.1575604!3s0x48840e10d09d7cdf:0x13e5588d16b50a1b!3m4!1m2!1d-2.1001329!2d57.1471646!3s0x48840e3cc0b50fc7:0x82725f00224ef1c8!1m5!1m1!1s0x48840e3c9f65b77f:0x6bb4fa85dcc71edd!2m2!1d-2.0993076!2d57.1461058!1m5!1m1!1s0x48840e248fc7f187:0xd3f85956a6dd37!2m2!1d-2.104321!2d57.144916!3e2)
 
 ### Various
 
