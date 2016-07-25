@@ -53,7 +53,12 @@ Options easily accessible from the University include:
 
 ### Workshop Dinner and Whiskey Bar
 
-The workshop dinner will take place the evening of Monday, July 25. After dinner, we will retire to a whiskey bar (and then possibly to a pub with a good range of ales and lagers). Further information will be posted here as and when it is available. Note that the workshop dinner (bar and pub) are not included in the registration fee so plan to order and pay from a set menu or a la carte.
+The workshop dinner will take place the evening of Monday, July 25 at Cafe 52. After dinner, we will retire to a whiskey bar (and then possibly to a pub with a good range of ales and lagers) at The Grill. Note that the workshop dinner and bar are not included in the registration fee, so plan to order and pay a la carte.
+
+- [Cafe 52](http://cafe52.co.uk/)
+- [The Grill](http://thegrillaberdeen.co.uk/)
+
+[Map](https://goo.gl/maps/c2cA8QYvc4u)
 
 ### Various
 
