@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 ---
 <p align="middle">
 <img src="logo3.jpg" width="650" height="350"/>
