@@ -291,11 +291,14 @@ Full-Width Styles
   text-align: left;
 }
 
+.header_text {
+  color: #fff;
+  margin: 0;
+}
+
 #main_content_wrap {
   min-height: 500px;
   background: #ffffff;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
   padding-bottom: 80px;
 }
 
@@ -361,4 +364,38 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+/*** NAVBAR ***/
+
+nav.main-nav {
+  font-weight: bold;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+nav.main-nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav.main-nav li, nav.main-nav a {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+nav.main-nav li a {
+  padding: 5px 20px 0 20px;
+}
+
+nav a {
+  color: #ffffff;
+}
+
+nav a.active {
+  color: #000000;
+  background: #ffffff;
+  border-radius: 10px 10px 0 0;
 }
