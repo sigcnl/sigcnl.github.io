@@ -10,7 +10,7 @@ Controlled Natural Languages (CNL) are languages that are based on natural langu
 
 ### News
 
-- [CNL 2018 will be at Maynooth University, Co Kildare (near Dublin), Ireland](https://twitter.com/sig_cnl/status/933725531530518528)
+- [CNL 2018 will be at Maynooth University, Co Kildare (near Dublin), Ireland](cnl2018.html)
 
 ### More
 
