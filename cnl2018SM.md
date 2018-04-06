@@ -9,8 +9,11 @@ a { color: #176B1B; }
 <p align="middle" style="font-size:200%">CNL 2018: Sixth International Workshop on Controlled Natural Language (CNL 2018)</p>
 <p align="middle">27-28 August 2018 — Maynooth, Co Kildare (near Dublin), Ireland</p>
 <p class="tabs" align="middle">
-<a href="cnl2018.html">Main</a> |  <a href="cnl2018speakers.html">Invited Speakers</a>  | <a href="cnl2018info.html">Info for Participants</a> | <a href="cnl2018SM.html">Social Media</a>
+<a href="cnl2018.html">Main</a> | <a href="cnl2018program.html">Program</a> | <a href="cnl2018speakers.html">Invited Speakers</a>  | <a href="cnl2018info.html">Info for Participants</a>
 </p>
 
 
-TBA
+
+### Social Media
+
+[https://twitter.com/sig_cnl](https://twitter.com/sig_cnl)
