@@ -17,7 +17,7 @@ a { color: #176B1B; }
 
 - <p><strong>Claire Gardent, French National Center for Scientific Research</strong></p>
 
-Claire is a senior lecturer at the French National Center for Scientific Research. She is also affiliated with LORIA Computer Science research unit in Nancy, France. Her main research area is statistical approaches for natural language understanding and generation. In particular, she focuses on building robust and efficient tools and ressources for the French langauge. She is partly responsible for the WebNLG project where novel technologies for generating text from knowledge bases and linked data were developed. She is the chair of SIGGEN, the ACL Special Interest Group in Natural Language Generation.
+Claire is a senior lecturer at the French National Center for Scientific Research. She is also affiliated with LORIA Computer Science research unit in Nancy, France. Her main research area is statistical approaches for natural language understanding and generation. In particular, she focuses on building robust and efficient tools and resources for the French langauge. She is partly responsible for the WebNLG project where novel technologies for generating text from knowledge bases and linked data were developed. She is the chair of SIGGEN, the ACL Special Interest Group in Natural Language Generation.
 
 More information can be found on her [webpage](https://members.loria.fr/CGardent/)
 
