@@ -15,7 +15,7 @@ a { color: #176B1B; }
 
 ### Accepted papers
 
-- Krasimir Angelov and Michal Boleslav Mechura. Editing with Search and Exploration for Controlled Languages
+- Krasimir Angelov and Michal Boleslav Mechura. <i> Editing with Search and Exploration for Controlled Languages </i>
 - Shaun Azzopardi, Christian Colombo and Gordon Pace. A Controlled Natural Language for Financial Services Compliance Checking
 - Paul Chomicz, Armin Müller-Lerwe, Götz-Philipp Wegner, Rainer Busch and Stefan Kowalewski. Controlled Natural Languages for Hazard Analysis and Risk Assessment
 - Brian Davis, Hazem Safwat and Manel Zarrouk. Rewriting Simplified Text into a Controlled Natural Language
