@@ -19,7 +19,11 @@ TBD
 
 ### Venue
 
-TBD
+The workshop takes place in Ireland at the National University of Ireland, Maynooth.
+
+<p align="middle">
+<a href="https://www.maynoothuniversity.ie/campus-life/campus-photo-tour"><img src="NUIMCampus.jpg" width="800"/></a>
+</p>
 
 ### Accommodation
 
