@@ -13,5 +13,14 @@ a { color: #176B1B; }
 <p align="middle">27-28 August 2018 — Maynooth, Co Kildare (near Dublin), Ireland</p>
 
 
+### Registration
 
-TBA
+TBD
+
+### Venue
+
+TBD
+
+### Accommodation
+
+TBD
