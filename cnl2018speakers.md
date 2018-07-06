@@ -27,3 +27,9 @@ More information can be found on her [webpage](https://members.loria.fr/CGardent
 Albert is the director of the Institute of Linguistics and Language Technology at the University of Malta. He is also affiliated with the Tilburg center for Communication and Cognition (TiCC) at Tilburg University in the Netherlands. Albert is mainly interested in computational linguistics, experimental psycholinguistics and semantics. He is especially interested in  Natural Language Generation (NLG): he is partly responsible for the creation of SimpleNLG, a java library for morphological generation and syntactic realisation. He is a member of the board of SIGGEN, the ACL Special Interest Group in Natural Language Generation.
 
 More information can be found on his [webpage](http://staff.um.edu.mt/albert.gatt/)
+
+- <p><strong>Teresa Lynn, Dublin City University</strong></p>
+
+Teresa is a research fellow at Dublin City University. She is mainly interested in natural language processing for social media with a focus on the Irish language. She is the principal investigator on the GaelTech project where novel techniques for parsing Irish multiword expressions are being investigated. She is also a member of Executive Board for the Irish Fulbright Alumni Association.
+
+More information can be found on her [webpage](http://www.nclt.dcu.ie/~tlynn/)
