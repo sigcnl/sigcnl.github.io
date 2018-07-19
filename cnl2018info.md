@@ -35,7 +35,7 @@ Campus accommodation through the north campus apartments or south campus standar
 
 - North Campus Apartments University Village/Rye Hall – single bedrooms within a 5 bedroom apartment with a fully fitted kitchen and living area at a daily rate of €34.00 per person per day. River/Courtyard - single ensuite bedrooms within a 5 bedroom apartment with a fully fitted kitchen and living area at a daily rate of €41.00 per person per day.
 
-Delegates that wish to stay on the campus and to avail of the CNL workshop special rate should follow the following steps to choose their preferred accommodation type:
+Delegates that wish to stay on the campus and take advantage of the CNL workshop special rate should follow the following steps to choose their preferred accommodation type:
 
 1. Visit <http://www.maynoothcampus.com> enter your arrival and departure dates and type in the e-voucher code **CNL_02/18** in the voucher field.
 2. Alternatively call 01 708 6400 and quote **"CNL Workshop"** when booking with our receptionist; or
