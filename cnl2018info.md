@@ -44,5 +44,5 @@ Delegates that wish to stay on the campus and take advantage of the CNL workshop
 
 An alternative option is to stay in the [Glenroyal Hotel](https://www.glenroyal.ie), which is just 10 min walk from the University's North Campus. These rooms include WIFI, Parking, Daily Newspaper and the use of a Leisure Club.
 
-### Other Options
+### Other Nearby Accomodation Options
 Lucan and Leixlip are nearby villages and both have a number of hotel and B&B options. They are connected to Maynooth by Dublin Bus Route 66 and 67, while a regular rail service also operates between Maynooth and Leixlip Louisa-Bridge and Leixlip-Confey stations. The [Clayton Hotel](https://www.www.claytonhotelliffeyvalley.com.ie) at Liffey Valley is also located on Routes 66/67 and is another convenient option. 
