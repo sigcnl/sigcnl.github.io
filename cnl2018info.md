@@ -42,7 +42,16 @@ Delegates that wish to stay on the campus and take advantage of the CNL workshop
 3. Email front.desk@nuim.ie and quote **"CNL Workshop"** when enquiring about the availability.
 
 
-An alternative option is to stay in the [Glenroyal Hotel](https://www.glenroyal.ie), which is just 10 min walk from the University's North Campus. These rooms include WIFI, Parking, Daily Newspaper and the use of a Leisure Club.
+An alternative option is to stay in the [Glenroyal Hotel](https://www.glenroyal.ie), which is just 10 min walk from the University's North Campus. These rooms include WIFI, Parking, Daily Newspaper and the use of a Leisure Club. Delegates to the CNL 2018 Workshop can reserve a room at the special MU corporate rate (listed below) for the nights of their choosing - all they have to do is book
+directly with the hotel, quoting the reference code **(234602)**: 
+
+Bed & Breakfast on 27th & 28th August 2018
+Single Room       €99.00 per night
+Double Room       €109.00 per night
+Triple Room        €129.00 per night
+ 
+We are holding **25rooms** at the above rates :  Guests **must book before 20 August 2018**  for the above rates to apply , after this date standard rates will apply. 
+
 
 ### Other Nearby Accomodation Options
 Lucan and Leixlip are nearby villages and both have a number of hotel and B&B options. They are connected to Maynooth by Dublin Bus Route 66 and 67, while a regular rail service also operates between Maynooth and Leixlip Louisa-Bridge and Leixlip-Confey stations. The [Clayton Hotel](https://www.www.claytonhotelliffeyvalley.com.ie) at Liffey Valley is also located on Routes 66/67 and is another convenient option. 
