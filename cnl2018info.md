@@ -64,8 +64,8 @@ the M50 motorway southbound and exit at Junction 7 towards N4 (westbound). Take 
 centre of the town and the gates to the South Campus are directly ahead of you. To reach the North
 Campus, take the left in the centre of the town, then turn right, take the next left and the entrance is on
 your right.
-The Airport Hopper is a daily shuttle bus service to and from Dublin Airport. This needs to be booked
-online in advance. For further information and timetables access https://airporthopper.ie/maynoothtimetable/.
+The Airport Hopper is a daily shuttle bus service to and from Dublin Airport. This must be booked
+online in advance. For further information and timetables [click here]|(https://airporthopper.ie/maynoothtimetable/) .
 ### Travelling from Dublin
 Maynooth is served by two Dublin Bus routes – the 66 and the 67. Both of these buses depart from
 Merrion Square in Dublin and run frequent services to the town. The 66x is an express service. Both
@@ -77,8 +77,8 @@ Maynooth lies on the Western Suburban railway line which serves the four Dublin 
 (Pearse Station, Tara St, Connolly Station and Docklands) as well as twelve other suburban stations;
 Drumcondra, Broombridge, Ashtown, Navan Rd. Parkway, Castleknock, Coolmine, Clonsilla,
 Hansfield, Dunboyne, M3 Parkway, Leixlip Confey and Leixlip Louisa Bridge, making it a quick and
-convenient way to get to Maynooth University. Please visit [Irish Rail for timetables](http://www.irishrail.ie/timetables/station#m
-for timetables).  The South Campus is approximately five minutes’ walk from Maynooth train station and the North
+convenient way to get to Maynooth University. Please visit [Irish Rail for timetables](http://www.irishrail.ie/timetables/station#m).  
+The South Campus is approximately five minutes’ walk from Maynooth train station and the North
 Campus approximately ten minutes’ walk.
 
 ### Travelling from other parts of Ireland
