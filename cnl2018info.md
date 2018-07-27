@@ -15,7 +15,7 @@ a { color: #176B1B; }
 
 ### Registration
 
-TBD
+Please register until the 23rd August via the registration form (https://shop.nuim.ie/index.php?app=ecom&ns=prodshow&ref=1350058). The registration fee is €70 (€40 for students), which includes lunches and coffee breaks. The workshop dinner is an additional €30.
 
 ### Venue
 
