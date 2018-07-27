@@ -51,8 +51,40 @@ directly with the hotel, quoting the reference code **(234602)**:
 | Double Room       |€109.00 per night |
 | Triple Room      | €129.00 per night |
  
-We are holding **25rooms** at the above rates :  Guests **must book before 20 August 2018**  for the above rates to apply , after this date standard rates will apply. 
+We are holding **25 rooms** at the above rates :  Guests **must book before 20 August 2018**  for the above rates to apply , after this date standard rates will apply. 
 
 
 ### Other Nearby Accomodation Options
 Lucan and Leixlip are nearby villages and both have a number of hotel and B&B options. They are connected to Maynooth by Dublin Bus Route 66 and 67, while a regular rail service also operates between Maynooth and Leixlip Louisa-Bridge and Leixlip-Confey stations. The [Clayton Hotel](https://www.www.claytonhotelliffeyvalley.com.ie) at Liffey Valley is also located on Routes 66/67 and is another convenient option. 
+
+### Travelling from Dublin Airport
+Maynooth lies just 33km south-west of Dublin Airport, around 40 minutes travel time by car. Follow
+the M50 motorway southbound and exit at Junction 7 towards N4 (westbound). Take junction 7
+(signposted Maynooth/Straffan/Naas) off the M4 and follow the signs to Maynooth. Turn left in the
+centre of the town and the gates to the South Campus are directly ahead of you. To reach the North
+Campus, take the left in the centre of the town, then turn right, take the next left and the entrance is on
+your right.
+The Airport Hopper is a daily shuttle bus service to and from Dublin Airport. This needs to be booked
+online in advance. For further information and timetables access https://airporthopper.ie/maynoothtimetable/.
+### Travelling from Dublin
+Maynooth is served by two Dublin Bus routes – the 66 and the 67. Both of these buses depart from
+Merrion Square in Dublin and run frequent services to the town. The 66x is an express service. Both
+bus routes are the same until they reach Lucan; from here the 66 travels to Maynooth via Leixlip, and
+the 67 via Celbridge. See the Dublin Bus website for full details. Please note that all Dublin Bus fares
+are **exact coins only**- **no change is given and bank notes are not accepted**.
+### Travelling by Rail
+Maynooth lies on the Western Suburban railway line which serves the four Dublin city centre stations
+(Pearse Station, Tara St, Connolly Station and Docklands) as well as twelve other suburban stations;
+Drumcondra, Broombridge, Ashtown, Navan Rd. Parkway, Castleknock, Coolmine, Clonsilla,
+Hansfield, Dunboyne, M3 Parkway, Leixlip Confey and Leixlip Louisa Bridge, making it a quick and
+convenient way to get to Maynooth University. Please visit [Irish Rail for timetables](http://www.irishrail.ie/timetables/station#m
+for timetables).  The South Campus is approximately five minutes’ walk from Maynooth train station and the North
+Campus approximately ten minutes’ walk.
+
+### Travelling from other parts of Ireland
+Bus Éireann operates daily services from: Athlone, Ballina, Galway, Longford, Mullingar, Sligo, Tuam
+and Westport. See the Bus Éireann website for more details.
+From Sligo, Collooney, Ballymote, Boyle, Carrick-on-Shannon, Dromod, Longford, Edgeworthstown,
+Mullingar, Enfield, Kilcock there are also direct rail services to Maynooth.
+Parking
+Visitor parking on the North Campus is available in a Pay and Display area located to the [Zones 2 and 9. ](https://www.maynoothuniversity.ie/sites/default/files/assets/document/Parking%20on%20Campus%202016_0.pdf)
