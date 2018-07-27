@@ -65,7 +65,7 @@ centre of the town and the gates to the South Campus are directly ahead of you. 
 Campus, take the left in the centre of the town, then turn right, take the next left and the entrance is on
 your right.
 The Airport Hopper is a daily shuttle bus service to and from Dublin Airport. This must be booked
-online in advance. For further information and timetables [click here]|(https://airporthopper.ie/maynoothtimetable/) .
+online in advance. For further information and timetables [click here](https://airporthopper.ie/maynoothtimetable/) .
 ### Travelling from Dublin
 Maynooth is served by two Dublin Bus routes – the 66 and the 67. Both of these buses depart from
 Merrion Square in Dublin and run frequent services to the town. The 66x is an express service. Both
