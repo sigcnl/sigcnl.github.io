@@ -19,7 +19,7 @@ Please register until the 23rd August via [the registration form ](https://shop.
 
 ### Venue
 
-The workshop takes place in Ireland at the National University of Ireland, Maynooth. It will be held in Renahan Hill on the South Campus ([Number 13 on this map](https://www.maynoothuniversity.ie/campus-life/campus-map))
+The workshop takes place in Ireland at the National University of Ireland, Maynooth. It will be held in **Renahan Hall** on the **South Campus** ([Number 13 on this map](https://www.maynoothuniversity.ie/campus-life/campus-map))
 
 <p align="middle">
 <a href="https://www.maynoothuniversity.ie/campus-life/campus-photo-tour"><img src="NUIMCampus.jpg" width="800"/></a>
