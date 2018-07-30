@@ -30,6 +30,6 @@ More information can be found on his [webpage](http://staff.um.edu.mt/albert.gat
 
 - <p><strong>Teresa Lynn, Dublin City University</strong></p>
 
-Teresa is a research fellow at Dublin City University. She is mainly interested in natural language processing for social media with a focus on the Irish language. She is the principal investigator on the GaelTech project where novel techniques for parsing Irish multiword expressions are being investigated. She is also a member of Executive Board for the Irish Fulbright Alumni Association.
+Teresa is a Research Fellow at the ADAPT Centre in Dublin City University. She is mainly interested in natural language processing for the Irish language. She is the principal investigator on the GaelTech project which covers various research topics such as treebank and parsing development, exploring novel techniques for parsing Irish multiword expressions and the processing of Irish language text on social media. She is also a member of the Executive Board for the Irish Fulbright Alumni Association.
 
 More information can be found on her [webpage](http://www.nclt.dcu.ie/~tlynn/)
