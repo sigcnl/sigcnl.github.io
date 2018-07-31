@@ -51,7 +51,7 @@ directly with the hotel, quoting the reference code **(234602)**:
 | Double Room       |€109.00 per night |
 | Triple Room      | €129.00 per night |
  
-We are holding **25 rooms** at the above rates :  Guests **must book before 20 August 2018**  for the above rates to apply , after this date standard rates will apply. 
+We are holding **25 rooms** at the above rates :  Guests **must book before 20 August 2018**  for the above rates to apply , after this date standard rates will apply. Guests must book direct by email to info@glenroyal.ie or by contacting 01-6290909 for the rates quoted to apply.
 
 
 ### Other Nearby Accomodation Options
