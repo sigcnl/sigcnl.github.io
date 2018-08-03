@@ -78,7 +78,7 @@ This is a draft schedule that is subject to change.
 <h5>Session 3</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">14:00-14:30 </td><td> Brian Davis, Hazem Safwat and Manel Zarrouk<br/>Rewriting Simplified Text into a Controlled Natural Language</td></tr>
+<tr><td class="time">14:00-14:30 </td><td> Hazem Safwat, Manel Zarrouk, and Brian Davis, <br/>Rewriting Simplified Text into a Controlled Natural Language</td></tr>
 <tr><td class="time">14:30-15:00 </td><td> Laurette Pretorius and Laurette Marais<br/>Modelling negation of the Afrikaans declarative sentence in GF</td></tr>
 
 <tr><td class="time">15:00-15:30 </td><td> COFFEE BREAK </td></tr>
