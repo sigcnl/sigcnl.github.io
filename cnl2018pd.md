@@ -31,8 +31,8 @@ Attempto Controlled English (ACE) offers numbers that are positive and negative 
 Boolean formulas are built from numbers, arithmetic expressions, proper names and variables with the help of the comparison operators =, \=, >, >=, < and =<. In RACE the copula is can be used as a synonym for the comparison operator =.
 
 When reasoning with arithmetic expressions and formulas one encounters four phenomena that did not previously occur in the Attempto reasoner RACE.
-+ While RACE fundamentally relies on syntactic matching of logical atoms, numerical expressions – like those in the formula **100/50 + 8 = 4 + 6** – cannot simply be matched, but must be numerically evaluated before being tested for equality.
-+ While previously the order of processing did not matter, the evaluation of expressions–asinAisB+C. CisD-1. Bis2. Dis3.–must be delayed until all constituents have a value.
++ While RACE fundamentally relies on syntactic matching of logical atoms, numerical expressions – like those in the formula 100/50 + 8 = 4 + 6 – cannot simply be matched, but must be numerically evaluated before being tested for equality.
++ While previously the order of processing did not matter, the evaluation of expressions– as in A is B+C. C is D-1. B is 2. D is 3.–must be delayed until all constituents have a value.
 + Even after evaluation remain problems of relating formulas, as can be seen in the deduction attempt X=1 \|- X>0.
 + As in standard logic arithmetical contradictions can involve negation, as for instance in A is 1. A is not 1. But there are new forms of contradictions not involving negation, for example A is 1. A is 2. or simply 1=2.
 
