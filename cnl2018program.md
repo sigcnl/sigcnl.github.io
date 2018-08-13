@@ -21,37 +21,47 @@ This is a draft schedule that is subject to change.
 <h5>Session 1</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">10:00-11:00 </td><td> Invited talk: Claire Gardent, French National Center for Scientific Research<br/>TITLE TBA</td></tr>
-<tr><td class="time">11:00-11:30 </td><td> COFFEE BREAK </td></tr>
+<tr><td width="80">10:00-11:00 </td><td> Invited talk: Claire Gardent, French National Center for Scientific Research<br/>TITLE TBA</td></tr>
+</table>
+
+<h5>Break</h5>
+<table style="border: none; border-collapse: collapse;" border="0" cellspacing="0"  width="100%" align="center">
+<tr><td width="80">11:00-11:30</td><td> COFFEE BREAK </td></tr>
 </table>
 
 <h5>Session 2</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">11:30-12:00 </td><td> Tobias Kuhn<br/>Using the AIDA Language to Formally Organize Scientific Claims</td></tr>
-<tr><td class="time">12:00-12:30 </td><td> Sebastien Ferre<br/>Responsive and Flexible Controlled Natural Language Authoring with Zipper-based Transformations</td></tr>
+<tr><td width="80">11:30-12:00 </td><td> Tobias Kuhn<br/>Using the AIDA Language to Formally Organize Scientific Claims</td></tr>
+<tr><td width="80">12:00-12:30 </td><td> Sebastien Ferre<br/>Responsive and Flexible Controlled Natural Language Authoring with Zipper-based Transformations</td></tr>
+</table>
 
-<tr><td class="time">12:30-14:00 </td><td> LUNCH BREAK </td></tr>
+<h5>Break</h5>
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr><td width="80">12:30-14:00 </td><td> LUNCH BREAK </td></tr>
 </table>
 
 <h5>Session 3</h5>
 
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">14:00-14:30 </td><td> Nikhil Gilbert and C. Maria Keet<br/>Automating question generation and marking of language learning exercises for isiZulu</td></tr>
-<tr><td class="time">14:30-15:00 </td><td> Herbert Lange and Peter Ljungl&ouml;f<br/>Putting Control into Language Learning</td></tr>
+<tr><td width="80">14:00-14:30 </td><td> Nikhil Gilbert and C. Maria Keet<br/>Automating question generation and marking of language learning exercises for isiZulu</td></tr>
+<tr><td width="80">14:30-15:00 </td><td> Herbert Lange and Peter Ljungl&ouml;f<br/>Putting Control into Language Learning</td></tr>
+</table>
 
-<tr><td class="time">15:00-15:30 </td><td> COFFEE BREAK </td></tr>
+<h5>Break</h5>
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr><td width="80">15:00-15:30 </td><td> COFFEE BREAK </td></tr>
 </table>
 
 
 <h5>Session 4</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">15.30-16.00 </td><td> Paul Chomicz, Armin M&uuml;ller-Lerwe, G&ouml;tz-Philipp Wegner, Rainer Busch and Stefan Kowalewski<br/>Controlled Natural Languages for Hazard Analysis and Risk Assessment</td></tr>
-<tr><td class="time">16:00-16:30 </td><td> Shaun Azzopardi, Christian Colombo and Gordon Pace<br/>A Controlled Natural Language for Financial Services Compliance Checking</td></tr>
+<tr><td width="80">15.30-16.00 </td><td> Paul Chomicz, Armin M&uuml;ller-Lerwe, G&ouml;tz-Philipp Wegner, Rainer Busch and Stefan Kowalewski<br/>Controlled Natural Languages for Hazard Analysis and Risk Assessment</td></tr>
+<tr><td width="80">16:00-16:30 </td><td> Shaun Azzopardi, Christian Colombo and Gordon Pace<br/>A Controlled Natural Language for Financial Services Compliance Checking</td></tr>
 
-<tr><td class="time">16:30-17:00 </td><td> Michael Hsiao <br/> Automated Program Synthesis from Object-Oriented Natural Language for Computer Games </td></tr>
+<tr><td width="80">16:30-17:00 </td><td> Michael Hsiao <br/> Automated Program Synthesis from Object-Oriented Natural Language for Computer Games </td></tr>
 </table>
 
 
@@ -61,31 +71,41 @@ This is a draft schedule that is subject to change.
 
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">09.30-10.30 </td><td> Invited talk: Albert Gatt, University of Malta<br/>From description to inference: Visual and linguistic features for recognising and generating entailments</td></tr>
-<tr><td class="time">10:30-11:00 </td><td> COFFEE BREAK </td></tr>
+<tr><td width="80">09.30-10.30 </td><td> Invited talk: Albert Gatt, University of Malta<br/>From description to inference: Visual and linguistic features for recognising and generating entailments</td></tr>
+</table>
+
+<h5>Break</h5>
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr><td width="80">10:30-11:00 </td><td> COFFEE BREAK </td></tr>
 </table>
 
 <h5>Session 2</h5>
 
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">11:00-11:30 </td><td> Krasimir Angelov and Michal Boleslav Mechura<br/>Editing with Search and Exploration for Controlled Languages</td></tr>
-<tr><td class="time">11:30-12:00 </td><td> Norbert E. Fuchs<br/>Understanding Texts in  Attempto Controlled English</td></tr>
+<tr><td width="80">11:00-11:30 </td><td> Krasimir Angelov and Michal Boleslav Mechura<br/>Editing with Search and Exploration for Controlled Languages</td></tr>
+<tr><td width="80">11:30-12:00 </td><td> Norbert E. Fuchs<br/>Understanding Texts in  Attempto Controlled English</td></tr>
+</table>
 
-<tr><td class="time">12:00-14:00 </td><td> LUNCH BREAK </td></tr>
+<h5>Break</h5>
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr><td width="80">12:00-14:00 </td><td> LUNCH BREAK </td></tr>
 </table>
 
 <h5>Session 3</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">14:00-14:30 </td><td> Hazem Safwat, Manel Zarrouk, and Brian Davis <br/>Rewriting Simplified Text into a Controlled Natural Language</td></tr>
-<tr><td class="time">14:30-15:00 </td><td> Laurette Pretorius and Laurette Marais<br/>Modelling negation of the Afrikaans declarative sentence in GF</td></tr>
+<tr><td width="80">14:00-14:30 </td><td> Hazem Safwat, Manel Zarrouk, and Brian Davis <br/>Rewriting Simplified Text into a Controlled Natural Language</td></tr>
+<tr><td width="80">14:30-15:00 </td><td> Laurette Pretorius and Laurette Marais<br/>Modelling negation of the Afrikaans declarative sentence in GF</td></tr>
+</table>
 
-<tr><td class="time">15:00-15:30 </td><td> COFFEE BREAK </td></tr>
+<h5>Break</h5>
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr><td width="80">15:00-15:30 </td><td> COFFEE BREAK </td></tr>
 </table>
 
 <h5>Session 4</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">15:30-16.30 </td><td> Invited talk:  Teresa Lynn, Dublin City University<br/>TITLE TBA</td></tr>
+<tr><td width="80">15:30-16.30 </td><td> Invited talk:  Teresa Lynn, Dublin City University<br/>TITLE TBA</td></tr>
 </table>
