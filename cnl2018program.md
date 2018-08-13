@@ -61,7 +61,7 @@ This is a draft schedule that is subject to change.
 
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td class="time">09.30-10.30 </td><td> Invited talk: Albert Gatt, University of Malta<br/>TITLE TBA</td></tr>
+<tr><td class="time">09.30-10.30 </td><td> Invited talk: Albert Gatt, University of Malta<br/>From description to inference: Visual and linguistic features for recognising and generating entailments</td></tr>
 <tr><td class="time">10:30-11:00 </td><td> COFFEE BREAK </td></tr>
 </table>
 
