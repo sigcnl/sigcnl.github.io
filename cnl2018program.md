@@ -21,7 +21,7 @@ This is a draft schedule that is subject to change.
 <h5>Session 1</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td width="80">10:00-11:00 </td><td> Invited talk: Claire Gardent, French National Center for Scientific Research<br/>TITLE TBA</td></tr>
+<tr><td width="80">10:00-11:00 </td><td> Invited talk: Claire Gardent, French National Center for Scientific Research<br/>Generating Natural Language from OWL and RDF data: Grammar-Based, Statistical and Neural Approaches</td></tr>
 </table>
 
 <h5>Break</h5>
