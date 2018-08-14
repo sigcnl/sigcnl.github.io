@@ -18,6 +18,11 @@ This is a draft schedule that is subject to change.
 
 <h3>DAY 1: MONDAY, 27 August 2018</h3>
 
+<table style="border: none; border-collapse: collapse;" border="0" cellspacing="0"  width="100%" align="center">
+<tr><td width="80">9:00-9:45</td><td> Registration </td></tr>
+<tr><td width="80">9:45-10:00</td><td> Opening of CNL 2018 </td></tr>
+</table>
+
 <h5>Session 1</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
@@ -85,11 +90,12 @@ This is a draft schedule that is subject to change.
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td width="80">11:00-11:30 </td><td> Krasimir Angelov and Michal Boleslav Mechura<br/>Editing with Search and Exploration for Controlled Languages</td></tr>
 <tr><td width="80">11:30-12:00 </td><td> Norbert E. Fuchs<br/>Understanding Texts in  Attempto Controlled English</td></tr>
+<tr><td width="80">12:00-12:30 </td><td> Poster & Demo session (Flash talks):<br/>Norbert E. Fuchs<br/>&emsp;Reasoning with Arithmetic in the Attempto Reasoner RACE<br/>Morgan O'Brien<br/>&emsp;Leveraging Gherkin Controlled Natural Language for Global Product Information Development</td></tr>
 </table>
 
 <h5>Break</h5>
 <table style="border: none; border-collapse: collapse;" border="0">
-<tr><td width="80">12:00-14:00 </td><td> LUNCH BREAK </td></tr>
+<tr><td width="80">12:30-14:00 </td><td> LUNCH BREAK </td></tr>
 </table>
 
 <h5>Session 3</h5>
@@ -108,4 +114,5 @@ This is a draft schedule that is subject to change.
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td width="80">15:30-16.30 </td><td> Invited talk:  Teresa Lynn, Dublin City University<br/>TITLE TBA</td></tr>
+<tr><td width="80">16:30-17:00 </td><td> Closing & awards </td></tr>
 </table>
