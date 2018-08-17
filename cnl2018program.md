@@ -69,6 +69,10 @@ This is a draft schedule that is subject to change.
 <tr><td width="80">16:30-17:00 </td><td> Michael Hsiao <br/> Automated Program Synthesis from Object-Oriented Natural Language for Computer Games </td></tr>
 </table>
 
+<h5>Break</h5>
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr><td width="80">19:30-21:00 </td><td> Workshop Dinner</td></tr>
+</table>
 
 <h3>DAY 2: TUESDAY, 28 August 2018</h3>
 
