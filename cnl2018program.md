@@ -113,6 +113,6 @@ This is a draft schedule that is subject to change.
 <h5>Session 4</h5>
 
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td width="80">15:30-16.30 </td><td> Invited talk:  Teresa Lynn, Dublin City University<br/>TITLE TBA</td></tr>
+<tr><td width="80">15:30-16.30 </td><td> Invited talk:  Teresa Lynn, Dublin City University<br/>Addressing some challenges of scarce resources in Irish Natural Language Processing</td></tr>
 <tr><td width="80">16:30-17:00 </td><td> Closing & awards </td></tr>
 </table>
