@@ -48,7 +48,6 @@ This is a draft schedule that is subject to change.
 
 <h5>Session 3</h5>
 
-
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td width="80">14:00-14:30 </td><td> Nikhil Gilbert and C. Maria Keet<br/>Automating question generation and marking of language learning exercises for isiZulu</td></tr>
 <tr><td width="80">14:30-15:00 </td><td> Herbert Lange and Peter Ljungl&ouml;f<br/>Putting Control into Language Learning</td></tr>
@@ -69,6 +68,10 @@ This is a draft schedule that is subject to change.
 <tr><td width="80">16:30-17:00 </td><td> Michael Hsiao <br/> Automated Program Synthesis from Object-Oriented Natural Language for Computer Games </td></tr>
 </table>
 
+<h5>Workshop Dinner</h5>
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr><td width="80">19:30</td><td> Workshop Dinner at Pugin Hall, South Campus, Maynooth University</td></tr>
+</table>
 
 <h3>DAY 2: TUESDAY, 28 August 2018</h3>
 
