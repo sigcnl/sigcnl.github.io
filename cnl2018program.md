@@ -60,7 +60,7 @@ This is a draft schedule that is subject to change.
 
 
 <h5>Session 4</h5>
-(Session Chair: TBA)
+(Session Chair: Tobias Kuhn)
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td width="80">15.30-16.00 </td><td> Paul Chomicz, Armin M&uuml;ller-Lerwe, G&ouml;tz-Philipp Wegner, Rainer Busch and Stefan Kowalewski<br/>Controlled Natural Languages for Hazard Analysis and Risk Assessment</td></tr>
 <tr><td width="80">16:00-16:30 </td><td> Shaun Azzopardi, Christian Colombo and Gordon Pace<br/>A Controlled Natural Language for Financial Services Compliance Checking</td></tr>
