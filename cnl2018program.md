@@ -72,7 +72,7 @@ This is a draft schedule that is subject to change.
 
 <h5>Workshop Dinner</h5>
 <table style="border: none; border-collapse: collapse;" border="0">
-<tr><td width="80">19:30</td><td> Workshop Dinner at Pugin Hall, South Campus, Maynooth University</td></tr>
+<tr><td width="80">19:00</td><td> Workshop Dinner at Pugin Hall, South Campus, Maynooth University</td></tr>
 </table>
 
 <h3>DAY 2: TUESDAY, 28 August 2018</h3>
