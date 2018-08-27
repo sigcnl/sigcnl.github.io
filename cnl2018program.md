@@ -72,7 +72,7 @@ a { color: #176B1B; }
 
 <h5>Workshop Dinner</h5>
 <table style="border: none; border-collapse: collapse;" border="0">
-<tr><td width="80">19:00</td><td> Workshop Dinner at Pugin Hall,([Located at No 14 on Map](https://www.maynoothuniversity.ie/campus-life/campus-map)) South Campus, Maynooth University</td></tr>
+<tr><td width="80">19:00</td><td> Workshop Dinner at Pugin Hall,[Located at No 14 on Map](https://www.maynoothuniversity.ie/campus-life/campus-map) South Campus, Maynooth University</td></tr>
 </table>
 
 <h3>DAY 2: TUESDAY, 28 August 2018</h3>
