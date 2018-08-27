@@ -66,6 +66,8 @@ This is a draft schedule that is subject to change.
 <tr><td width="80">16:00-16:30 </td><td> Shaun Azzopardi, Christian Colombo and Gordon Pace<br/>A Controlled Natural Language for Financial Services Compliance Checking</td></tr>
 
 <tr><td width="80">16:30-17:00 </td><td> Michael Hsiao <br/> Automated Program Synthesis from Object-Oriented Natural Language for Computer Games </td></tr>
+
+<tr><td width="80">17:00-17:30 </td><td>  Community discussion </td></tr>
 </table>
 
 <h5>Workshop Dinner</h5>
