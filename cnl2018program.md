@@ -26,7 +26,7 @@ This is a draft schedule that is subject to change.
 <h5>Session 1</h5>
 (Session Chair: Maria Keet)
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td width="80">10:00-11:00 </td><td> Invited talk: Claire Gardent, French National Center for Scientific Research<br/>Generating Natural Language from OWL and RDF data: Grammar-Based, Statistical and Neural Approaches</td></tr>
+<tr><td width="80">10:00-11:00 </td><td> Invited talk: Claire Gardent, French National Center for Scientific Research<br/>Generating Natural Language from OWL and RDF data: Grammar-Based, Statistical and Neural Approaches [<a href="cnl2018slides/GardentCNL2018.pdf">Slides</a>] </td></tr>
 </table>
 
 <h5>Break</h5>
@@ -37,8 +37,8 @@ This is a draft schedule that is subject to change.
 <h5>Session 2</h5>
 (Session Chair: Norbert Fuchs)
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td width="80">11:30-12:00 </td><td> Tobias Kuhn<br/>Using the AIDA Language to Formally Organize Scientific Claims</td></tr>
-<tr><td width="80">12:00-12:30 </td><td> Sebastien Ferre<br/>Responsive and Flexible Controlled Natural Language Authoring with Zipper-based Transformations</td></tr>
+<tr><td width="80">11:30-12:00 </td><td> Tobias Kuhn<br/>Using the AIDA Language to Formally Organize Scientific Claims [<a href="https://rawgit.com/tkuhn/cnl2018-aida-talk/master/index.html#/">Slides</a>] </td></tr>
+<tr><td width="80">12:00-12:30 </td><td> Sébastien Ferré<br/>Responsive and Flexible Controlled Natural Language Authoring with Zipper-based Transformations [<a href="cnl2018slides/FerréCNL2018.pdf">Slides</a>] </td></tr>
 </table>
 
 <h5>Break</h5>
@@ -49,8 +49,8 @@ This is a draft schedule that is subject to change.
 <h5>Session 3</h5>
 (Session Chair: Laurette Pretorius)
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tr><td width="80">14:00-14:30 </td><td> Nikhil Gilbert and C. Maria Keet<br/>Automating question generation and marking of language learning exercises for isiZulu</td></tr>
-<tr><td width="80">14:30-15:00 </td><td> Herbert Lange and Peter Ljungl&ouml;f<br/>Putting Control into Language Learning</td></tr>
+<tr><td width="80">14:00-14:30 </td><td> Nikhil Gilbert and C. Maria Keet<br/>Automating question generation and marking of language learning exercises for isiZulu [<a href="cnl2018slides/GilbertKeetCNL2018.pdf">Slides</a>] </td></tr>
+<tr><td width="80">14:30-15:00 </td><td> Herbert Lange and Peter Ljungl&ouml;f<br/>Putting Control into Language Learning [<a href="cnl2018slides/LangeLjunglöfCNL2018.pdf">Slides</a>] </td></tr>
 </table>
 
 <h5>Break</h5>
@@ -63,7 +63,7 @@ This is a draft schedule that is subject to change.
 (Session Chair: Tobias Kuhn)
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td width="80">15.30-16.00 </td><td> Paul Chomicz, Armin M&uuml;ller-Lerwe, G&ouml;tz-Philipp Wegner, Rainer Busch and Stefan Kowalewski<br/>Controlled Natural Languages for Hazard Analysis and Risk Assessment</td></tr>
-<tr><td width="80">16:00-16:30 </td><td> Shaun Azzopardi, Christian Colombo and Gordon Pace<br/>A Controlled Natural Language for Financial Services Compliance Checking</td></tr>
+<tr><td width="80">16:00-16:30 </td><td> Shaun Azzopardi, Christian Colombo and Gordon Pace<br/>A Controlled Natural Language for Financial Services Compliance Checking [<a href="cnl2018slides/AzzopardiColomboPaceCNL2018.pdf">Slides</a>] </td></tr>
 
 <tr><td width="80">16:30-17:00 </td><td> Michael Hsiao <br/> Automated Program Synthesis from Object-Oriented Natural Language for Computer Games </td></tr>
 
@@ -94,8 +94,8 @@ This is a draft schedule that is subject to change.
 (Session Chair: Sébastien Ferré)
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr><td width="80">11:00-11:30 </td><td> Krasimir Angelov and Michal Boleslav Mechura<br/>Editing with Search and Exploration for Controlled Languages</td></tr>
-<tr><td width="80">11:30-12:00 </td><td> Norbert E. Fuchs<br/>Understanding Texts in  Attempto Controlled English</td></tr>
-<tr><td width="80">12:00-12:30 </td><td> Poster & Demo session (Flash talks):<br/>Norbert E. Fuchs<br/>&emsp;Reasoning with Arithmetic in the Attempto Reasoner RACE<br/>Morgan O'Brien<br/>&emsp;Leveraging Gherkin Controlled Natural Language for Global Product Information Development</td></tr>
+<tr><td width="80">11:30-12:00 </td><td> Norbert E. Fuchs<br/>Understanding Texts in  Attempto Controlled English [<a href="cnl2018slides/FuchsCNL2018.pdf">Slides</a>]</td></tr>
+<tr><td width="80">12:00-12:30 </td><td> Poster & Demo session (Flash talks):<br/>Norbert E. Fuchs<br/>&emsp;Reasoning with Arithmetic in the Attempto Reasoner RACE<br/>Morgan O'Brien<br/>&emsp;Leveraging Gherkin Controlled Natural Language for Global Product Information Development [<a href="cnl2018slides/OBrienCNL2018Poster.jpg">Poster</a>] </td></tr>
 </table>
 
 <h5>Break</h5>
