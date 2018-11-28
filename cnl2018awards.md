@@ -36,5 +36,5 @@ a { color: #176B1B; }
 
 <h5>Winner</h5>
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0"  width="100%" align="center">
-<tr><td width="80">2 </td><td> Shaun Azzopardi, Christian Colombo and Gordon Pace<br/>A Controlled Natural Language for Financial Services Compliance Checking [<a href="cnl2018slides/AzzopardiColomboPaceCNL2018.pdf">Slides</a>] </td></tr>
+<tr><td width="80"> </td><td> Shaun Azzopardi, Christian Colombo and Gordon Pace<br/>A Controlled Natural Language for Financial Services Compliance Checking [<a href="cnl2018slides/AzzopardiColomboPaceCNL2018.pdf">Slides</a>] </td></tr>
 </table>
