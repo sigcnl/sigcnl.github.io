@@ -7,7 +7,7 @@ a { color: #176B1B; }
 </style>
 <p align="middle"><img src="cnl2018logo.png" width="250"/></p>
 <p class="tabs" align="middle">
-<a href="cnl2018.html">Main</a> | <a href="cnl2018speakers.html">Invited Speakers</a>  | <a href="cnl2018info.html">Info for Participants</a> | <a href="cnl2018SM.html">Social Media</a>
+<a href="cnl2018.html">Main</a> | <a href="cnl2018speakers.html">Invited Speakers</a>  | <a href="cnl2018info.html">Info for Participants</a> | <a href="cnl2018awards.html">Best paper awards</a> | <a href="cnl2018SM.html">Social Media</a>
 </p>
 <p align="middle" style="font-size:200%">CNL 2018: Sixth International Workshop on Controlled Natural Language (CNL 2018)</p>
 <p align="middle">27-28 August 2018 — Maynooth, Co Kildare (near Dublin), Ireland</p>
@@ -17,7 +17,7 @@ a { color: #176B1B; }
 ##### Leveraging Gherkin Controlled Natural Language for Global Product Information Development
 
 Morgan O'Brien
- 
+
 Behavior Driven Development (BDD) has been growing as a development methodology for the last 10+ years and in that time, has matured as a way of designing software based on behaviors expected by customers. In McAfee, we aim to use the BDD process more and are expanding the usefulness of the MT technology in place. Within BDD, the Gherkin Controlled Natural Language (CNL) is a syntax and common terminology set that is used to describe a software or business process. It is directly linked to the test process and automation code for testing.
 
 Given there exists this control on the language to describe our software using BDD and Gherkin, we seek to test if Machine Translation accuracy can reach a production level for publishing without the need for Post Editing and set some next steps to making this reality. Thus, enabling global product in-formation development to happen as part of the Software Development Life Cycle (SDLC).

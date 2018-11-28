@@ -7,7 +7,7 @@ a { color: #176B1B; }
 </style>
 <p align="middle"><img src="cnl2018logo.png" width="250"/></p>
 <p class="tabs" align="middle">
-<a href="cnl2018.html">Main</a> | <a href="cnl2018program.html">Program</a> | <a href="cnl2018pd.html">Posters/Demos</a> | <a href="cnl2018speakers.html">Invited Speakers</a> | <a href="cnl2018SM.html">Social Media</a>
+<a href="cnl2018.html">Main</a> | <a href="cnl2018program.html">Program</a> | <a href="cnl2018pd.html">Posters/Demos</a> | <a href="cnl2018speakers.html">Invited Speakers</a> | <a href="cnl2018awards.html">Best paper awards</a> | <a href="cnl2018SM.html">Social Media</a>
 </p>
 <p align="middle" style="font-size:200%">CNL 2018: Sixth International Workshop on Controlled Natural Language (CNL 2018)</p>
 <p align="middle">27-28 August 2018 — Maynooth, Co Kildare (near Dublin), Ireland</p>
@@ -44,19 +44,19 @@ Delegates that wish to stay on the campus and take advantage of the CNL workshop
 ### Alternative Nearby Accomodation Option
 
 An alternative option is to stay in the [Glenroyal Hotel](https://www.glenroyal.ie), which is just 10 min walk from the University's North Campus. These rooms include WIFI, Parking, Daily Newspaper and the use of a Leisure Club. Delegates to the CNL 2018 Workshop can reserve a room at the special MU corporate rate (listed below) for the nights of their choosing - all they have to do is book
-directly with the hotel, quoting the reference code **(234602)**: 
+directly with the hotel, quoting the reference code **(234602)**:
 
 | Bed & Breakfast | 27th & 28th August 2018 |
 | ----------------|-------------------------|
 | Single Room     |  €99.00 per night   |
 | Double Room       |€109.00 per night |
 | Triple Room      | €129.00 per night |
- 
+
 We are holding **25 rooms** at the above rates :  Guests **must book before 20 August 2018**  for the above rates to apply , after this date standard rates will apply. Guests must book direct by email to **info@glenroyal.ie** or by contacting 01-6290909 for the rates quoted to apply.
 
 
 ### Other Nearby Accomodation Options
-Lucan and Leixlip are nearby villages and both have a number of hotel and B&B options. They are connected to Maynooth by Dublin Bus Route 66 and 67, while a regular rail service also operates between Maynooth and Leixlip Louisa-Bridge and Leixlip-Confey stations. The [Clayton Hotel](https://www.www.claytonhotelliffeyvalley.com.ie) at Liffey Valley is also located on Routes 66/67 and is another convenient option. 
+Lucan and Leixlip are nearby villages and both have a number of hotel and B&B options. They are connected to Maynooth by Dublin Bus Route 66 and 67, while a regular rail service also operates between Maynooth and Leixlip Louisa-Bridge and Leixlip-Confey stations. The [Clayton Hotel](https://www.www.claytonhotelliffeyvalley.com.ie) at Liffey Valley is also located on Routes 66/67 and is another convenient option.
 
 ### Travelling from Dublin Airport
 Maynooth lies just 33km south-west of Dublin Airport, around 40 minutes travel time by car. Follow
