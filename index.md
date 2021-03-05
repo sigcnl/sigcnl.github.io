@@ -10,7 +10,7 @@ Controlled Natural Languages (CNL) are languages that are based on natural langu
 
 ### News
 
-- [CNL 2020 will be in Amsterdam](cnl2020.html)
+- [CNL 2020/21 will be in Amsterdam](cnl2020.html)
 
 ### More
 
