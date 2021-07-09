@@ -12,9 +12,6 @@ a { color: #da121a; }
 <p align="middle" style="font-size:200%">Program of CNL 2020/21</p>
 
 
-The program is still tentative.
-
-
 ### Wednesday, 8 September 2021
 
 Morning session 1:
