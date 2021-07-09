@@ -12,7 +12,7 @@ a { color: #da121a; }
 <p align="middle" style="font-size:200%">Program of CNL 2020/21</p>
 
 
-### Wednesday, 8 September
+### Wednesday, 8 September 2021
 
 Morning session 1:
 
@@ -42,7 +42,7 @@ Afternoon session 2:
 - 17:30-18:00 Full paper presentation
 
 
-### Thursday, 9 September
+### Thursday, 9 September 2021
 
 Morning session 1:
 
