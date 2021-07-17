@@ -39,7 +39,7 @@ Afternoon session 2:
 
 - 16:30-17:00 Yannis Haralambous and Tian Tian. Tailoring a Controlled Language Out of a Corpus of Maintenance Reports (full paper)
 - 17:00-17:30 Norbert E. Fuchs. The Law of Inertia and the Frame Problem in Attempto Controlled English (full paper)
-- 17:30-18:00 Mary-Jane Antia and C.Maria Keet. Enhancing the development of a bottom-up CNL design for Competency Questions (CQs) in Ontology Engineering (full paper)
+- 17:30-18:00 Mary-Jane Antia and C.Maria Keet. Assessing and Enhancing Bottom-up CNL Design for Competency Questions for Ontologies (full paper)
 
 
 ### Thursday, 9 September 2021
@@ -62,7 +62,7 @@ Semantics keynote: 13:30-14:30
 Afternoon session 1:
 
 - 14:45-15:05 Lloyd Rutledge and Rudy Italiaander. Toward a Reference Architecture for Traceability in SBVR-based Systems (short paper)
-- 15:05-15:25 Joel Cedric Lengeling. Communication protocols that apply Controlled Natural Language (CNL) to standardize communication in logistics and supply chain management (short paper)
+- 15:05-15:25 Joel Cedric Lengeling. acilitating the application of Controlled Natural Language (CNL) to standardize communication in logistics and supply chain management (short paper)
 - 15:25-15:45 Joan Byamugisha and Nomonde Khalo. A CNL-based Method for Detecting Disease Negation (short paper)
 - 15:45-16:05 Michael Hsiao. Multi-Phase Context Vectors for Generating Feedback for Natural-Language Based Programming (short paper)
 
