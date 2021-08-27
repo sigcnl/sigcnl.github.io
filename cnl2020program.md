@@ -12,6 +12,8 @@ a { color: #da121a; }
 <p align="middle" style="font-size:200%">Program of CNL 2020/21</p>
 
 
+Full paper slots consist of 20 minutes presentation and 10 minutes discussion. Short paper slots have 15 minutes presentation and 5 minutes discussion.
+
 ### Wednesday, 8 September 2021
 
 Morning session 1:
