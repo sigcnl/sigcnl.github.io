@@ -1,4 +1,4 @@
----
+--
 layout: plain
 ---
 <style>
@@ -24,7 +24,7 @@ Morning session 1:
 
 Morning session 2 (Joint session with Legal Compliance workshop):
 
-- 11:00-11:45 Keynote 1: Mariette Lokin
+- 11:00-11:45 Keynote 1: Mariette Lokin. Law Analysis, a semantic foundation for meaningful service delivery
 - 11:45-12:30 Panel discussion
 
 Lunch break
@@ -48,7 +48,7 @@ Afternoon session 2:
 
 Morning session 1:
 
-- 9:00-10:00 Keynote 2: Piek Vossen
+- 9:00-10:00 Keynote 2: Piek Vossen. Controlling the language of robots to learn about the world and create a common ground
 - 10:00-10:20 Abdus Salam, Rolf Schwitter and Mehmet Orgun. Human-understandable and Machine-processable Explanations for Sub-symbolic Predictions (short paper)
 
 Morning session 2:
