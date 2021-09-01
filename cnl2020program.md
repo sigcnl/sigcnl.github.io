@@ -24,7 +24,7 @@ Morning session 1:
 
 Morning session 2 (Joint session with Legal Compliance workshop):
 
-- 11:00-11:45 Keynote 1: Mariette Lokin. Law Analysis, a semantic foundation for meaningful service delivery
+- 11:00-11:45 Keynote 1: Mariette Lokin and John Bulles. Law Analysis, a semantic foundation for meaningful service delivery
 - 11:45-12:30 Panel discussion
 
 Lunch break
