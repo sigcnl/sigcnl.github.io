@@ -74,6 +74,6 @@ Afternoon session 1:
 
 Afternoon session 2:
 
-- 16:30-17:30 Keynote 3: Bob Kowalski
+- 16:30-17:30 Keynote 3: Bob Kowalski. Logical English for legal applications
 - 17:30-17:40 Closing
 
