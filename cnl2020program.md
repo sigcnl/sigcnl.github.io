@@ -16,6 +16,8 @@ Full paper slots consist of 20 minutes presentation and 10 minutes discussion. S
 
 We have four candidates for the best paper award, indicated below.
 
+The papers can be found in the [ACL Anthology](https://aclanthology.org/volumes/2021.cnl-1/)
+
 ### Wednesday, 8 September 2021
 
 Morning session 1:
@@ -24,14 +26,14 @@ Morning session 1:
 - 9:30-10:00 Nataly Jahchan, Anne Condamines, Emmanuelle Cannesson and Helene Giraudo. Towards a More Natural Controlled Language in Future Airbus Cockpits. A Psycho-linguistic Evaluation (full paper). **Best paper candidate**
 - 10:00-10:30 Rolf Schwitter. The Grammar of PENG ASP Explained (full paper)
 
-Morning session 2 (Joint session with Legal Compliance workshop):
+Morning session 2 (joint session with Legal Compliance workshop):
 
 - 11:00-11:45 Keynote 1: Mariette Lokin and John Bulles. Law Analysis, a semantic foundation for meaningful service delivery
 - 11:45-12:30 Panel discussion
 
 Lunch break
 
-Semantics keynote: 13:30-14:30
+- 13:30-14:30: Semantics keynote: Vanessa Lopez. Knowledge Graphs for Social Good: Protecting Vital Health and Social Programs (Joint session with the main conference)
 
 Afternoon session 1:
 
@@ -61,7 +63,7 @@ Morning session 2:
 
 Lunch break
 
-Semantics keynote: 13:30-14:30
+- 13:30-14:30 Roundtable session
 
 Afternoon session 1:
 
@@ -73,5 +75,5 @@ Afternoon session 1:
 Afternoon session 2:
 
 - 16:30-17:30 Keynote 3: Bob Kowalski
-- 17:30-18:00 Closing
+- 17:30-17:40 Closing
 
