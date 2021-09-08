@@ -16,7 +16,7 @@ Full paper slots consist of 20 minutes presentation and 10 minutes discussion. S
 
 We have four candidates for the best paper award, indicated below.
 
-The papers can be found in the [ACL Anthology](https://aclanthology.org/volumes/2021.cnl-1/)
+The papers can be found in the [ACL Anthology](https://aclanthology.org/volumes/2021.cnl-1/).
 
 ### Wednesday, 8 September 2021
 
