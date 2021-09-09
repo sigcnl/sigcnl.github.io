@@ -68,7 +68,7 @@ Lunch break
 Afternoon session 1:
 
 - 14:45-15:05 Lloyd Rutledge and Rudy Italiaander. Toward a Reference Architecture for Traceability in SBVR-based Systems (short paper)
-- 15:05-15:25 Joel Cedric Lengeling. acilitating the application of Controlled Natural Language (CNL) to standardize communication in logistics and supply chain management (short paper)
+- 15:05-15:25 Joel Cedric Lengeling. Facilitating the application of Controlled Natural Language (CNL) to standardize communication in logistics and supply chain management (short paper)
 - 15:25-15:45 Joan Byamugisha and Nomonde Khalo. A CNL-based Method for Detecting Disease Negation (short paper)
 - 15:45-16:05 Michael Hsiao. Multi-Phase Context Vectors for Generating Feedback for Natural-Language Based Programming (short paper)
 
