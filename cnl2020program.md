@@ -18,12 +18,14 @@ We have four candidates for the best paper award, indicated below.
 
 The papers can be found in the [ACL Anthology](https://aclanthology.org/volumes/2021.cnl-1/).
 
+The best paper award went to the paper by Yannis Haralambous and Tian Tian on [Tailoring a Controlled Language Out of a Corpus of Maintenance Reports](https://aclanthology.org/2021.cnl-1.3.pdf).
+
 ### Wednesday, 8 September 2021
 
 Morning session 1:
 
 - 9:00-9:30 Intro
-- 9:30-10:00 Nataly Jahchan, Anne Condamines, Emmanuelle Cannesson and Helene Giraudo. Towards a More Natural Controlled Language in Future Airbus Cockpits. A Psycho-linguistic Evaluation (full paper). **Best paper candidate**
+- 9:30-10:00 Nataly Jahchan, Anne Condamines, Emmanuelle Cannesson and Helene Giraudo. Towards a More Natural Controlled Language in Future Airbus Cockpits. A Psycho-linguistic Evaluation (full paper). *Best paper candidate*
 - 10:00-10:30 Rolf Schwitter. The Grammar of PENG ASP Explained (full paper)
 
 Morning session 2 (joint session with Legal Compliance workshop):
@@ -37,13 +39,13 @@ Lunch break
 
 Afternoon session 1:
 
-- 14:45-15:15 Arianna Masciolini and Aarne Ranta. Grammar-Based Concept Alignment for Domain-Specific Machine Translation (full paper). **Best paper candidate**
+- 14:45-15:15 Arianna Masciolini and Aarne Ranta. Grammar-Based Concept Alignment for Domain-Specific Machine Translation (full paper). *Best paper candidate*
 - 15:15-15:45 Mischa Corsius, Stijn Hoppenbrouwers, Mariette Lokin, Elian Baars, Gertrude Sangers-Van Cappellen and Ilona Wilmont. RegelSpraak: a CNL for Executable Tax Rules Specification (full paper)
 - 15:45-16:15 Ilona Wilmont, Diederik Dulfer, Jan Hof, Mischa Corsius and Stijn Hoppenbrouwers. A quality evaluation framework for a CNL for agile law execution (full paper)
 
 Afternoon session 2:
 
-- 16:30-17:00 Yannis Haralambous and Tian Tian. Tailoring a Controlled Language Out of a Corpus of Maintenance Reports (full paper). **Best paper candidate**
+- 16:30-17:00 Yannis Haralambous and Tian Tian. Tailoring a Controlled Language Out of a Corpus of Maintenance Reports (full paper). **Best paper award**
 - 17:00-17:30 Norbert E. Fuchs. The Law of Inertia and the Frame Problem in Attempto Controlled English (full paper)
 - 17:30-18:00 Mary-Jane Antia and C.Maria Keet. Assessing and Enhancing Bottom-up CNL Design for Competency Questions for Ontologies (full paper)
 
@@ -57,7 +59,7 @@ Morning session 1:
 
 Morning session 2:
 
-- 11:00-11:30 Laurette Marais. Approximating a Zulu GF concrete syntax with a neural network for natural language understanding (full paper). **Best paper candidate**
+- 11:00-11:30 Laurette Marais. Approximating a Zulu GF concrete syntax with a neural network for natural language understanding (full paper). *Best paper candidate*
 - 11:30-12:00 Norbert E. Fuchs. Reasoning in Attempto Controlled English: Mathematical and Functional Extensions (full paper)
 - 12:00-12:30 Inari Listenmaa, Maryam Hanafiah, Regina Cheong and Andreas Källberg. Towards CNL-based verbalization of computational contracts (full paper)
 
