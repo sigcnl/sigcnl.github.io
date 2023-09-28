@@ -6,6 +6,7 @@ navigation_weight: 30
 
 ### Previous CNL Workshops
 
+- [CNL 2020/21 in Amsterdam, Netherlands](cnl2020.html)
 - [CNL 2018 in Maynooth, Ireland](cnl2018.html)
 - [CNL 2016 in Aberdeen, Scotland](cnl2016.html)
 - [CNL 2014 in Galway, Ireland](http://attempto.ifi.uzh.ch/site/cnl2014/)
